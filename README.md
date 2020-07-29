@@ -7,7 +7,7 @@ This is where the testing happens.
 
 🐘 Database is deployed on [Azure Database for PostgreSQL](https://azure.microsoft.com/en-ca/services/postgresql/) instead of Heroku.
 
-🕸 Webapp is deployed on Netlify: ???
+🕸 Webapp is deployed on Netlify: https://hula-hoop-26635d.netlify.app/
 
 The [parent repo](https://github.com/thedavidprice/redwood-tutorial-test) is deployed on Netlify: https://jovial-bohr-4ac134.netlify.com/
 
